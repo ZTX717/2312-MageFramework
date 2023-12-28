@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSerializableDictionaryOfInt32关卡 xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SerializableDictionaryOfInt32关卡 Key="0">
+    <Value>
+      <number>0</number>
+      <name>第0关</name>
+      <tower>
+        <string>炮塔</string>
+        <string>高射炮</string>
+        <string>弓弩</string>
+      </tower>
+      <monster>怪物</monster>
+    </Value>
+  </SerializableDictionaryOfInt32关卡>
+  <SerializableDictionaryOfInt32关卡 Key="1">
+    <Value>
+      <number>1</number>
+      <name>第1关</name>
+      <tower>
+        <string>炮塔</string>
+        <string>高射炮</string>
+        <string>弓弩</string>
+      </tower>
+      <monster>怪物</monster>
+    </Value>
+  </SerializableDictionaryOfInt32关卡>
+  <SerializableDictionaryOfInt32关卡 Key="2">
+    <Value>
+      <number>2</number>
+      <name>第2关</name>
+      <tower>
+        <string>炮塔</string>
+        <string>高射炮</string>
+        <string>弓弩</string>
+      </tower>
+      <monster>怪物</monster>
+    </Value>
+  </SerializableDictionaryOfInt32关卡>
+</ArrayOfSerializableDictionaryOfInt32关卡>
